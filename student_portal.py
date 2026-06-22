@@ -53,7 +53,7 @@ PASS_MARK = 50
 DISTINCTION_MARK = 70
 
 # Admin Panel Unified Colors (Elegant Purple Theme)
-ADMIN_BG = "#6a1b9a"  # Deep Purple
+ADMIN_BG = "#6a1b9a" #deep purple
 ADMIN_BTN_BG = "#8e24aa"  # Medium Purple
 ADMIN_BTN_HOVER = "#ab47bc"  # Light Purple
 ADMIN_HEADER_BG = "#4a0072"  # Dark Purple
