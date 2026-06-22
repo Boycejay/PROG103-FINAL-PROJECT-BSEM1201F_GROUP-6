@@ -1,0 +1,32 @@
+{
+    "admin": {
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "full_name": "System Administrator",
+        "role": "Admin",
+        "status": "approved",
+        "date_registered": "2026-06-22",
+        "students": []
+    },
+    "teacher1": {
+        "password": "cde383eee8ee7a4400adf7a15f716f179a2eb97646b37e089eb8d6d04e663416",
+        "full_name": "Fatmata Kamara",
+        "role": "Teacher",
+        "status": "approved",
+        "district": "Kailahun",
+        "school": "St. Mary's Primary School",
+        "class_name": "Class 6A",
+        "subjects_taught": "English, Mathematics, Science",
+        "date_registered": "2026-06-22",
+        "students": []
+    },
+    "principal1": {
+        "password": "3549f22fb8622a6d216ef2dcd592e04ed1f1e604cef032d7e5c425e8e72a878e",
+        "full_name": "Mohamed Sesay",
+        "role": "Principal",
+        "status": "approved",
+        "district": "Kailahun",
+        "school": "St. Mary's Primary School",
+        "date_registered": "2026-06-22",
+        "students": []
+    }
+}
