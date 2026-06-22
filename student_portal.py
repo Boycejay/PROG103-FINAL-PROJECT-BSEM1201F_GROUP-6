@@ -83,7 +83,7 @@ SIERRA_LEONE_DISTRICTS = [
     "Karene", "Port Loko", "Bo", "Bonthe", "Moyamba", "Pujehun"
 ]
 
-# District
+# District code
 DISTRICT_CODES = {
     "Kailahun": "KL", "Kenema": "KE", "Kono": "KO", "Bombali": "BD",
     "Bo": "BO", "Port Loko": "PL", "Western Area Urban (Freetown)": "WAU",
